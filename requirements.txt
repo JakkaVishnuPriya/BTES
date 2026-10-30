@@ -1,0 +1,11 @@
+torch
+torchvision
+segmentation-models-pytorch
+rasterio
+opencv-python
+numpy
+scipy
+scikit-image
+matplotlib
+tqdm
+flask
